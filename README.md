@@ -1,1 +1,1 @@
-# okx-sim-pro
+{"name":"okx-sim-pro-v1","version":"1.0.0","description":"OKX style crypto simulation trading demo","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.19.2"},"engines":{"node":">=18"}}
